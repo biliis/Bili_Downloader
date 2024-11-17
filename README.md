@@ -11,12 +11,17 @@
   时效小于等于1年（换设备，修改密码等行为会使cookie提前更换）
 - 线程
 
-  请勿使用过多线程下载(尤其是应用cookie)
+  **<span style="color:blue;">请勿使用过多线程下载(尤其是应用cookie)</span>**
   - 不使用cookie时应小于12
   - 使用cookie时应小于4
 - 下载介绍
 
 	1.组视频
+	
   		单个BV号，多个视频，即P1P2
   	2.列表视频
-  		不同BV号，UP整合，id只能zai'wang'zhuo'q
+  	
+  		不同BV号，UP整合，id只能在网页端读取
+  	3.单个视频
+  		
+  		单个BV号，单个视频
