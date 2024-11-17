@@ -11,7 +11,7 @@
   时效小于等于1年（换设备，修改密码等行为会使cookie提前更换）
 - 线程
 
-  <span style="color:blue;">请勿使用过多线程下载(尤其是应用cookie)</span>
+   **请勿使用过多线程下载(尤其是应用cookie)**
   - 不使用cookie时应小于12
   - 使用cookie时应小于4
 - 下载介绍
